@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sam</groupId>
-	<artifactId>IFeeder</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>IFeeder</name>
-	<description>A project for data processing</description>
+	<artifactId>SpringDemo</artifactId>
+	<version>1.0</version>
+	<name>SpringDemo</name>
+	<description>A project for AWS CI CD Demo</description>
 
 	<properties>
 		<java.version>1.8</java.version>
